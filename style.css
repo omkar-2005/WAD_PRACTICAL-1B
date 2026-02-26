@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(107, 133, 56);
+}
+
+.one{
+
+    color: rgb(237, 9, 9);
+}
+
+.two{
+    background-color: rgb(161, 161, 33);
+    color: rgb(215, 89, 30);
+}
+.three{
+    color: blueviolet;
+    text-decoration: underline;
+}
